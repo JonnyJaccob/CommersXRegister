@@ -306,8 +306,8 @@ namespace ProyectoPoo
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            miArchivo = new ArchivoSecuencialSerializadoBinario<Producto>(Echis);
-            MostrarDatos();
+            //miArchivo = new ArchivoSecuencialSerializadoBinario<Producto>(Echis);
+            //MostrarDatos();
         }
        
 
