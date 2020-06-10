@@ -1,0 +1,11 @@
+C:\Users\doloresmargarita\source\repos\ProyectoP\ProyectoPoo\bin\Debug\ProyectoPoo.exe.config
+C:\Users\doloresmargarita\source\repos\ProyectoP\ProyectoPoo\bin\Debug\ProyectoPoo.exe
+C:\Users\doloresmargarita\source\repos\ProyectoP\ProyectoPoo\bin\Debug\ProyectoPoo.pdb
+C:\Users\doloresmargarita\source\repos\ProyectoP\ProyectoPoo\obj\Debug\ProyectoPoo.csprojAssemblyReference.cache
+C:\Users\doloresmargarita\source\repos\ProyectoP\ProyectoPoo\obj\Debug\ProyectoPoo.Form1.resources
+C:\Users\doloresmargarita\source\repos\ProyectoP\ProyectoPoo\obj\Debug\ProyectoPoo.Properties.Resources.resources
+C:\Users\doloresmargarita\source\repos\ProyectoP\ProyectoPoo\obj\Debug\ProyectoPoo.csproj.GenerateResource.cache
+C:\Users\doloresmargarita\source\repos\ProyectoP\ProyectoPoo\obj\Debug\ProyectoPoo.csproj.CoreCompileInputs.cache
+C:\Users\doloresmargarita\source\repos\ProyectoP\ProyectoPoo\obj\Debug\ProyectoPoo.exe
+C:\Users\doloresmargarita\source\repos\ProyectoP\ProyectoPoo\obj\Debug\ProyectoPoo.pdb
+C:\Users\doloresmargarita\source\repos\ProyectoP\ProyectoPoo\obj\Debug\ProyectoPoo.Form2.resources
